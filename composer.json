@@ -2,6 +2,7 @@
     "name": "ilovefiniki/php-google-people-api",
     "description": "This package provides a user friendly way of interacting with Google Contacts via the Google People API.",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "ilovefiniki/php-google-oauth-2-handler": "^1.2.1"
     },
